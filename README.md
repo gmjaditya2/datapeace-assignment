@@ -1,5 +1,5 @@
 # Datapeace-assignment
-Backend Developer Assignment -Jatin. 
+Backend Developer Assignment - Jatin. 
 This is code repo for an API with which CRUDS ( create ,read ,update , delete , sort ) and filter operations can be performed on the database.
 
 ## Video Demonstration
